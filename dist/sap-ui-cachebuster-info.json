@@ -1,0 +1,22 @@
+{
+  "Component.js": 1691034614000,
+  "i18n/i18n_en.properties": 1691034614000,
+  "controller/utilities.js": 1691034614000,
+  "manifest.json": 1691384468569,
+  "model/models.js": 1691034614000,
+  "model/errorHandling.js": 1691034614000,
+  "data/hierarchicalJSONData.json": 1691034614000,
+  "controller/Page1.controller.js": 1691034614000,
+  "i18n/i18n.properties": 1691034614000,
+  "Component-preload.js": 1691384468646,
+  "controller/utilities-dbg.js": 1691034614000,
+  "model/errorHandling-dbg.js": 1691034614000,
+  "model/models-dbg.js": 1691034614000,
+  "controller/Page1-dbg.controller.js": 1691034614000,
+  "Component-dbg.js": 1691034614000,
+  "resources/WatSapX_Logo.png": 1691034614000,
+  "resources/CarInsuranceBanner.jpg": 1691034614000,
+  "view/Page1.view.xml": 1691383800674,
+  "WEB-INF/web.xml": 1691034614000,
+  "index.html": 1691056293251
+}
